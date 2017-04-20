@@ -42,7 +42,7 @@
 
                             <a href="#"
                                class="drawer-toggle navbar-collapse collapse btn btn-default app-drawer-toggle"
-                               accesskey="A"
+                               accesskey="Q"
                                >
                                 <span class="sr-only">Toggle App Drawer</span>
                                 <i class="fa fa-th fa-lg app-drawer-icon-open" />
@@ -110,7 +110,7 @@
 			    <ul style="display: none" class="oe_secondary_menu nav navbar-nav" t-att-data-menu-parent="menu['id']">
 				<li class="app-name">
 					<span class="oe_menu_text">
-						<t t-esc="menu['name']"/> 
+						<t t-esc="menu['name']"/>
 					</span>
 				</li>
 				<li>
